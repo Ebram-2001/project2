@@ -630,7 +630,7 @@
     text-align: center;
     font-size: 24px;
     line-height: 1.5;
-    color: #16161a70;
+    color: white;
 }
 .sec3 .container > div{
     display: flex;
@@ -746,7 +746,7 @@
 
 .sec5-Landscapes > div span{
     display: block;
-    color: #16161a80;
+    color: white;
     padding-top: 10px;
 }
 .sec5-Landscapes > div a{
@@ -768,7 +768,7 @@
 }
 
 .sec5-Landscapes > div p{
-    color: #16161a80;
+    color: white;
     font-size: 18px;
     padding-top: 10px;
 }
